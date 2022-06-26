@@ -1,0 +1,8 @@
+{
+    "name": "melon",
+    "amt": 60,
+    "item_type": {
+        "name": "food",
+        "can_trade": true
+    } 
+}
