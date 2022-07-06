@@ -1,0 +1,5 @@
+docker build .
+docker build -t docker-example .
+docker run  hello-world
+docker run --rm -it python:3.8.13 bash
+docker exec 866ac4c5c9c4 -it bash
