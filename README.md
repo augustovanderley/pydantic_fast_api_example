@@ -1,3 +1,6 @@
+
+Project based on this video: https://youtu.be/Ty1sqkOYdgA
+
 Make scripts executable
 
 ```
